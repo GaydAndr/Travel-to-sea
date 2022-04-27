@@ -1,0 +1,23 @@
+.wrap {
+  position: relative;
+  top: 85px;
+}
+
+.wrap .main {
+  height: auto;
+}
+
+.wrap app-header, .wrap app-home-btn {
+  width: 100vw;
+  position: fixed;
+  z-index: 9999;
+}
+
+.wrap app-header {
+  top: 0;
+}
+
+.wrap app-home-btn {
+  bottom: 0;
+}
+/*# sourceMappingURL=app.component.css.map */

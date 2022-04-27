@@ -1,0 +1,21 @@
+.wrap{
+  position: relative;
+  top: 85px;
+  .main{
+    height:auto;
+
+  }
+  app-header, app-home-btn{
+    width: 100vw;
+    position: fixed;
+    z-index: 9999;
+  }
+  
+  app-header{
+    top: 0; 
+    
+  }
+  app-home-btn{
+    bottom: 0;
+  }
+}
