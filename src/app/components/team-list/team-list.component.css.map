@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,UAAU,CAAA;EACR,MAAM,EAAE,0BAA0B;EAGlC,OAAO,EAAC,IAAK;EACb,OAAO,EAAE,IAAI;EACb,aAAa,EAAC,iBAAiB;EAC/B,eAAe,EAAE,YAAY;EAC7B,GAAG,EAAE,IAAI;CAMV;;AAdD,AAUE,UAVQ,CAUR,CAAC,CAAA;EACC,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CACZ",
-    "sources": [
-        "team-list.component.scss"
-    ],
-    "names": [],
-    "file": "team-list.component.css"
-}
